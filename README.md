@@ -1,2 +1,2 @@
-# games
-fun games that we've made
+#Games
+Fun games that we've made. Try them out, and see how they work!
